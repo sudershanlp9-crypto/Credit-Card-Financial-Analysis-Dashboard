@@ -69,6 +69,6 @@ The two `*_add.csv` files represent incremental weekly loads, simulating how new
 
 ## 👤 Author
 
-Ajay Bhujbal
-📧 ajaybhujbal981@gmail.com
-🔗 [GitHub](https://github.com/ajaybhujbal-data)
+Sudarshan Pulgamwar
+📧 sudarshanpulgamwar07@gmail.com
+🔗 [GitHub](https://github.com/sudershanlp9-crypto)
